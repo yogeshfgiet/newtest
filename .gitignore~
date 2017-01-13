@@ -1,0 +1,8 @@
+/vendor
+/config
+/storage
+
+.env
+config/
+database/
+
